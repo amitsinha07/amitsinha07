@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👋 Hi, I’m Amit
 - 👀 I’m a Full Stack Web Developer and a IT Supp
 - 🌱 I’m currently pursuing B-tech in Computer Science and Engineering

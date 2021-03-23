@@ -3,7 +3,7 @@
 - 👀 I’m a Full Stack Web Developer and a IT Support Specialist.
 - 🌱 I’m currently pursuing B-tech in Computer Science and Engineering.
 - 💞️ I’m looking to collaborate with IT companies and open sourece communities.
-- 📫 You Can reach me on aamitsinha456@gmail.com
+- 📫 You Can reach me on amitsinha456@outlook.com
 
 <!---
 amitsinha07/amitsinha07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

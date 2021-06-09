@@ -1,6 +1,6 @@
 # Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👋 Hi, I’m Amit Kumar.
-- 👀 I’m a Full Stack Web Developer and a IT Support Specialist.
+- 👀 I’m a Full Stack Web Developer.
 - 🌱 I’m currently pursuing B-tech in Computer Science and Engineering.
 - 💞️ I’m looking to collaborate with IT companies and open sourece communities.
 - 📫 You Can reach me on amitsinha456@outlook.com

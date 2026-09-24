@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-amitkumar--07-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:aamitsinha6580@gmail.com">
+  <a href="mailto:aamitsinha456@gmail.com">
     <img src="https://img.shields.io/badge/Email-aamitsinha6580-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
@@ -227,7 +227,7 @@ Public ONDC specifications and reference implementations I work against:
 Open to backend and platform engineering roles — distributed systems, high-throughput infrastructure, or applied AI over real production data. Remote or hybrid.
 
 <p>
-  <a href="mailto:aamitsinha6580@gmail.com">
+  <a href="mailto:aamitsinha456@gmail.com">
     <img src="https://img.shields.io/badge/aamitsinha6580@gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;

@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="mailto:aamitsinha456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aamitsinha6580-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-aamitsinha456-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="#contact">
